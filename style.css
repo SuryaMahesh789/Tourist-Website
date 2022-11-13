@@ -1,0 +1,154 @@
+ h1 {
+     width: 70%;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 20px;
+     text-align: center;
+     font-family: sans-serif;
+     font-size: xx-large;
+ }
+
+ body {
+     width: 70%;
+     margin-left: auto;
+     margin-right: auto;
+     background-image: url(https://images5.alphacoders.com/863/863248.jpg);
+     background-repeat: no-repeat;
+ }
+
+ p {
+     text-align: center;
+     font-family: cursive;
+ }
+
+ label {
+     border: 2.5px solid rgb(225, 255, 0);
+     padding: 30px;
+ }
+
+ hr {
+     height: 2px;
+     width: 60%;
+     background-color: greenyellow;
+     border-color: greenyellow;
+     padding-left: 20px;
+     padding-right: 20px;
+ }
+
+ div {
+     text-align: center;
+ }
+
+ h5 {
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     margin-bottom: 5px;
+     text-align: center;
+ }
+
+ section {
+     padding-top: 5px;
+     padding-bottom: 1px;
+     /* background-color: antiquewhite; */
+ }
+
+ form {
+     text-align: center;
+ }
+
+ input {
+     width: 25%;
+     height: 20%;
+     padding: 12px 20px;
+     margin: 8px 0;
+     box-sizing: content-box;
+     border: 2px red;
+     border-radius: 4px;
+ }
+
+ button {
+     width: 10%;
+     height: 10%;
+     padding: 12px 20px;
+     margin: 5px 0;
+     box-sizing: content-box;
+     border: 2px red;
+     border-radius: 4px;
+     background-color: gold;
+     font-size: large;
+ }
+
+ input[type=reset] {
+     width: 10%;
+     height: 10%;
+     padding: 12px 20px;
+     margin: 5px 0;
+     box-sizing: content-box;
+     border: 2px red;
+     border-radius: 4px;
+     background-color: red;
+     font-size: large;
+     font-style: italic;
+ }
+
+
+ input[type=date] {
+     width: 10%;
+     height: 10%;
+     padding: 12px 20px;
+     margin: 8px 0;
+     box-sizing: content-box;
+     border: 2px red;
+     border-radius: 4px;
+     background-color: khaki;
+ }
+
+ label {
+
+     font-family: sans-serif;
+     font-size: large;
+     padding: 2px;
+
+ }
+
+ /* link colors */
+
+ a:link {
+     color: red;
+     background-color: transparent;
+     text-decoration: none;
+ }
+
+ a:visited {
+     color: red;
+     background-color: transparent;
+     text-decoration: none;
+ }
+
+ a:hover {
+     color: blue;
+     background-color: transparent;
+     text-decoration: underline;
+ }
+
+ a:active {
+     color: yellow;
+     background-color: transparent;
+     text-decoration: underline;
+ }
+
+ #submit {
+     width: 10%;
+     height: 10%;
+     padding: 12px 20px;
+     margin: 5px 0;
+     box-sizing: content-box;
+     border: 2px red;
+     border-radius: 4px;
+     background-color: gold;
+     font-size: large;
+ }
+
+ input {
+     color: cornsilk;
+     background-color: black;
+ }
